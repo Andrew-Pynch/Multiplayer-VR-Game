@@ -1,0 +1,13 @@
+D:\Github\multiplayer-vr-game\GameServer\bin\Debug\netcoreapp3.1\GameServer.exe
+D:\Github\multiplayer-vr-game\GameServer\bin\Debug\netcoreapp3.1\GameServer.deps.json
+D:\Github\multiplayer-vr-game\GameServer\bin\Debug\netcoreapp3.1\GameServer.runtimeconfig.json
+D:\Github\multiplayer-vr-game\GameServer\bin\Debug\netcoreapp3.1\GameServer.runtimeconfig.dev.json
+D:\Github\multiplayer-vr-game\GameServer\bin\Debug\netcoreapp3.1\GameServer.dll
+D:\Github\multiplayer-vr-game\GameServer\bin\Debug\netcoreapp3.1\GameServer.pdb
+D:\Github\multiplayer-vr-game\GameServer\obj\Debug\netcoreapp3.1\GameServer.csprojAssemblyReference.cache
+D:\Github\multiplayer-vr-game\GameServer\obj\Debug\netcoreapp3.1\GameServer.AssemblyInfoInputs.cache
+D:\Github\multiplayer-vr-game\GameServer\obj\Debug\netcoreapp3.1\GameServer.AssemblyInfo.cs
+D:\Github\multiplayer-vr-game\GameServer\obj\Debug\netcoreapp3.1\GameServer.csproj.CoreCompileInputs.cache
+D:\Github\multiplayer-vr-game\GameServer\obj\Debug\netcoreapp3.1\GameServer.dll
+D:\Github\multiplayer-vr-game\GameServer\obj\Debug\netcoreapp3.1\GameServer.pdb
+D:\Github\multiplayer-vr-game\GameServer\obj\Debug\netcoreapp3.1\GameServer.genruntimeconfig.cache
